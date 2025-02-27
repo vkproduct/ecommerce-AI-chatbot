@@ -1,1 +1,1 @@
-# ecommerce-AI-chatbot
+# Ecommerce AI-chatbot
